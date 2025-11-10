@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Warrior",
+        "id" : "1",
+        "behaviours": ["Idle","Attack","Defend","Died"]
+    }
+]
+
+,
+    {
+        "name": "Archer",
+        "id" : "2",
+        "behaviours": ["Idle","Attack","Defend","Died"]       
+    },
+    {
+        "name": "Mage",
+        "id" : "3",
+        "behaviours": ["Idle","Attack","Defend","Died"]
+    },
+    {
+        "name": "Assassin",
+        "id" : "4",
+        "behaviours": ["Idle","Attack","Defend","Died"]
+    },
+    {        
+        "name": "Shaman",
+        "id" : "5",
+        "behaviours": ["Idle","Attack","Defend","Died"]
+    }
