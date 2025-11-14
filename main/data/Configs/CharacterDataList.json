@@ -1,0 +1,24 @@
+[
+    {
+        "name": "Warrior",
+        "id" : "1",
+        "HP" : "150",
+        "ATK": "20",
+        "DEF": "50",
+        "behaviours": ["Idle","Attack"],
+        "dialogues": ["Hello1","Hello2","Hello3","Hello4","Hello5"],
+        "taunts": ["Hello me","Damn you DeathBringer","x","x","x"]
+    }
+    ,
+    {
+        "name": "Bringer-of-Death",
+        "id": "2",
+        "HP" : "420",
+        "ATK": "90",
+        "DEF": "0",
+        "behaviours": ["Idle","Attack"],
+        "dialogues": ["Hello1","Hello2","Hello3","Hello4","Hello5"],
+        "taunts": ["I SHALL EAT YOU WHOLE","Hello me","x","x","x"]
+    }
+    
+]
