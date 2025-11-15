@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Warrior",
+        "id" : "1",
+        "HP" : "150",
+        "ATK": "20",
+        "DEF": "50",
+        "behaviours": ["Idle","Attack"],
+        "dialogues": ["Hello1","Hello2","Hello3","Hello4","Hello5"],
+        "taunts": ["Hello me","Damn you DeathBringer","Umm excuse me?","Hi again wizard","x"]
+    }
+    ,
+    {
+        "name": "Bringer-of-Death",
+        "id": "2",
+        "HP" : "420",
+        "ATK": "90",
+        "DEF": "0",
+        "behaviours": ["Idle","Attack"],
+        "dialogues": ["Hello1","Hello2","Hello3","Hello4","Hello5"],
+        "taunts": ["I SHALL EAT YOU WHOLE","Hello me","Bro yapping something","x","x"]
+    },
+    {
+        "name": "Samurai",
+        "id": "3",
+        "HP" : "200",
+        "ATK": "40",
+        "DEF": "100",
+        "behaviours": ["Idle","Attack"],
+        "dialogues": ["Hello1","Hello2","Hello3","Hello4","Hello5"],
+        "taunts": ["i cut you","i cut you","what in the world?","x","x"]
+    },
+        {
+        "name": "EvilWizard",
+        "id": "4",
+        "HP" : "100",
+        "ATK": "100",
+        "DEF": "200",
+        "behaviours": ["Idle","Attack"],
+        "dialogues": ["Hello1","Hello2","Hello3","Hello4","Hello5"],
+        "taunts": ["SALALAL","OLALALLA","Hey old hag","VINGLADY LOII","x"]
+    } 
+    
+]
